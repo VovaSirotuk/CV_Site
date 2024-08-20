@@ -1,0 +1,89 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background: #786e6e;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+.container{
+    position: relative;
+    margin: 0 20% 0;
+    height: 100%;
+    width: 100%;
+}
+.upper-side{
+    position: relative;
+    background-color: #e0c5c7;
+    height: 45%;
+}
+.down-side {
+    position: relative;
+    background-color: #ffffff;
+    width: 100%;
+    color: #333;
+    height: 125%;
+}
+.vertical-line{
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 2%;
+    background-color: #b18e90;
+    width: 37%;
+    text-align: center;
+    color: #ffffff;
+    height: 170%;
+    z-index: 1;
+    font-size: x-large;
+}
+.profile-pic {
+    margin-top: 40px;
+    width: 80%;
+    height: auto;
+    border: solid;
+    border-radius: 50%;
+    border-color: #ffffff;
+    object-fit: cover;
+    margin-bottom: 20px;
+}
+.profile{
+    margin: 30px auto;
+    width: 70%;
+    text-align: left;
+}
+.contact-info{
+    margin: 120px 0 0 15%;
+    width: 85%;
+    text-align: left;
+}
+.email{
+    font-size: 0.94em;
+}
+.name{
+    margin-top: 0px;
+    font-size: 3em;
+}
+.header{
+    font-size: 1.5em;
+    position: absolute;
+    right: 150px;
+    bottom: 30px;
+}
+.p{
+    margin: 0;
+}
+
+.info{
+    font-size: x-large;
+    width: 57%;
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+}
+td{
+    padding: 0 0 0 25px;
+}
