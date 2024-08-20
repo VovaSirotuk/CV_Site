@@ -38,7 +38,7 @@ body{
     color: #ffffff;
     height: 170%;
     z-index: 1;
-    font-size: 1.5em;
+    font-size: 1.3em;
 }
 .profile-pic {
     margin-top: 40px;
@@ -61,14 +61,14 @@ body{
     text-align: left;
 }
 .email{
-    font-size: 0.94em;
+    font-size: 0.9em;
 }
 .name{
     margin-top: 0px;
-    font-size: 3em;
+    font-size: 2.5em;
 }
 .header{
-    font-size: 1.5em;
+    font-size: 1.3em;
     position: absolute;
     right: 150px;
     bottom: 30px;
@@ -78,7 +78,7 @@ body{
 }
 
 .info{
-    font-size: 1.5em;
+    font-size: 1.3em;
     width: 57%;
     position: absolute;
     right: 10px;
