@@ -70,7 +70,7 @@ body{
 .header{
     font-size: 1.3em;
     position: absolute;
-    right: 150px;
+    right: 400px;
     bottom: 30px;
 }
 .p{
@@ -78,6 +78,7 @@ body{
 }
 
 .info{
+    top: 0;
     font-size: 1.3em;
     width: 57%;
     position: absolute;
